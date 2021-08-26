@@ -40,7 +40,7 @@ class J:
         )
         
     def run(self):
-        """Get args to call Warhol Tool execution method"""
+        """Get args to call X execution method"""
 
         args = self.arg_parser.parse_args()
 
